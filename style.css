@@ -1,0 +1,8 @@
+.hero {
+  position: relative;
+}
+
+.headline span {
+  display: inline-block;
+}
+
